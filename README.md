@@ -11,7 +11,7 @@ I am currently completing the Google Cybersecurity Certificate on Coursera and b
 - SQL queries
 
 ## 📂 Projects
-- Security Audit (coming soon)
+- - [Security Audit – Botium Toys](./security-audit)
 - Professional Statement (coming soon)
 
 ## 🎯 Goal
