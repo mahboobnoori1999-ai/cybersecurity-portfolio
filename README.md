@@ -10,13 +10,15 @@ I am currently completing the Google Cybersecurity Certificate on Coursera and b
 - Linux commands
 - SQL queries
 
-## 📂 Projects
-- - [Security Audit – Botium Toys](./security-audit)
-    - [Professional Statement](./professional-statement)
-      
+
+## 📁 Projects
+
+- 🔐 [Security Audit – Botium Toys](./security-audit)  
+  - 📄 [Professional Statement](./professional-statement)
+
 - 🔍 Network Traffic Analysis – DNS & ICMP Incident  
   - 📄 [Incident Report](./network-traffic-analysis/incident-report.md)  
+  - 📄 [Case Study](./network-traffic-analysis/case-study.md)  
   - Analyzed DNS and ICMP traffic using tcpdump to identify a port 53 service failure.
-
 ## 🎯 Goal
 My goal is to become a cybersecurity professional and work in a Security Operations Center (SOC).
